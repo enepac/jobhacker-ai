@@ -24,7 +24,7 @@ Built using:
 
 ### 📸 Preview
 
-![screenshot](https://user-images.githubusercontent.com/your-username/your-screenshot.png)
+![screenshot](C:\Users\suberu\Desktop\enepac\jobhacker-ai\public\jobhackerai.png)
 
 ---
 
